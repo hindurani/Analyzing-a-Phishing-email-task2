@@ -1,0 +1,20 @@
+Subject: Urgent: Verify Your PayPal Account Now!
+From: PayPal Support <support@paypa1.com>
+To: user@example.com
+Body:
+Dear Costumer,
+We have detected unusual activity on your PayPal acccount. To protect your funds, you must verify your identity immediately. Failure to do so will result in your account being locked within 24 hours.
+Please click the link below to verify your account:
+[Verify Now](http://paypa1-login.co/secure-login)
+If you did not initiate this request, plese contact our support team at support@paypa1.com.
+Thank you,
+PayPal Security Team
+
+Headers:
+Received: from unknown [192.0.2.6] by smtp.paypa1.com
+From: PayPal Support <support@paypa1.com>
+To: user@example.com
+Subject: Urgent: Verify Your PayPal Account Now!
+Message-ID: <abc123@paypa1.com>
+SPF: FAIL
+DKIM: NONE
